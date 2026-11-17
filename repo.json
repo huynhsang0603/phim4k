@@ -3,6 +3,6 @@
   "description": "Nguồn phim từ VSMOV API",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://githubusercontent.com"
+    "https://githubusercontent.com/huynhsang0603/phim4k/main/repo.json"
   ]
 }
