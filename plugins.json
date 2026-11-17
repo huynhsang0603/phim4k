@@ -10,7 +10,7 @@
     "tvTypes": ["Movie", "TvSeries", "Anime"],
     "version": 1,
     "internalName": "VSMOVProvider",
-    "url": "https://githubusercontent.com/huynhsang0603/phim4k/main/repo.json"
+    "url": "https://raw.githubusercontent.com/huynhsang0603/phim4k/main/repo.json"
     "name": "VSMOV"
   }
 ]
