@@ -1,0 +1,8 @@
+{
+  "name": "Kho Phim VSMOV",
+  "description": "Nguồn phim từ VSMOV API",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://githubusercontent.com"
+  ]
+}
