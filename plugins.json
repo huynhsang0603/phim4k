@@ -1,16 +1,17 @@
+
 [
   {
     "iconUrl": "https://vsmov.com",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/huynhsang0603/phim4k",
-    "fileSize": 16013,
+    "fileSize": 15000,
     "status": 1,
     "language": "vi",
     "authors": ["VSMOV"],
     "tvTypes": ["Movie", "TvSeries", "Anime"],
     "version": 1,
     "internalName": "VSMOVProvider",
-    "url": "https://raw.githubusercontent.com/huynhsang0603/phim4k/main/repo.json"
+    "url": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/VSMOVProvider.cs3",
     "name": "VSMOV"
   }
 ]
