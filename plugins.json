@@ -11,7 +11,7 @@
     "tvTypes": ["Movie", "TvSeries", "Anime"],
     "version": 1,
     "internalName": "VSMOVProvider",
-    "url": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/VSMOVProvider.cs3",
+    "url": "https://raw.githubusercontent.com/huynhsang0603/phim4k/refs/heads/main/VSMOVProvider.cs3",
     "name": "VSMOV"
   }
 ]
